@@ -1,0 +1,6 @@
+{
+  "name": "CineVerse",
+  "description": "Clean Architecture Jetpack Compose movie app with trending cinema, search, watchlists, reviews, recommendations, and AI cinema guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
